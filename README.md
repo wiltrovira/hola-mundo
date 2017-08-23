@@ -1,3 +1,5 @@
+#Información del programa
+Título: hola-mundo
 Version: 0.1.0
 Autor: Wilt Rovira
 Fecha: Agosto 22 de 2017
